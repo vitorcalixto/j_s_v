@@ -1,5 +1,7 @@
 # Receitas de Família
 
+O site receitas de familia irá conter as principais reliquisa culinarias obtidas por cada um dos membros em sua respectiva familia...
+
 ## Integrantes
 
 Nome | E-mail
